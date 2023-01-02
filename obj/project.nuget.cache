@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpKimM1Q22ERHOEz7GeWPGRm10sWYj7A1/lVeibaSrzMtY65Rs6BjedEmt0GM9deayEswuBaRxmgG1KHZWVYBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tugayo\\source\\repos\\SeleniumTest\\SeleniumTest\\SeleniumTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugayo\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojAssemblyReference.cache
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.Form1.resources
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.Properties.Resources.resources
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.GenerateResource.cache
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\tugayo\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CopyComplete
